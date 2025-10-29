@@ -1,7 +1,7 @@
 # Project-_A_-Global-Tech-Layoffs-Data-Cleaning-SQL
 The Project involves cleaning the Dataset of the employees layed-off from Companies in 2022-2023
 
-# # Data Cleaning Project — Global Tech Layoffs (2022–2023)
+## Data Cleaning Project — Global Tech Layoffs (2022–2023)
 
 This project focuses on cleaning and standardizing the **Global Tech Layoffs Dataset (2022–2023)** using **MySQL**.
 
