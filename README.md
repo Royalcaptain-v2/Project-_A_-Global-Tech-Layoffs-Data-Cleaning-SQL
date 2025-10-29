@@ -28,10 +28,13 @@ This project focuses on cleaning and standardizing the **Global Tech Layoffs Dat
 ### Outcome
 A clean and analysis-ready dataset (`layoffs_staging2`) ready for EDA and visualization.
 
----
+### Project Files
 
-### Files Included
-- `global_tech_layoffs_cleaning.sql` → Full SQL cleaning script  
-- `raw_dataset.csv` → Original unaltered dataset  
-- `cleaned_dataset.csv` → Final cleaned version  
-- `screenshots/` → Code and result snapshots
+| File | Description |
+|------|--------------|
+| [ `global_tech_layoffs_cleaning.sql`](./global_tech_layoffs_cleaning.sql) | Full MySQL script used for data cleaning |
+| [ `raw_dataset.csv`](./layoffs.csv) | Original raw dataset imported into MySQL |
+| [ `cleaned_dataset.csv`](./cleaned_dataset.csv) | Final cleaned dataset exported from MySQL |
+
+
+
